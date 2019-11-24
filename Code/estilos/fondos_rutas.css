@@ -1,0 +1,61 @@
+body{
+	/*background: url(../images/index/dashboard/index.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;background-size: cover;*/
+
+}
+
+
+#black{
+	color: black;
+}
+
+#white{
+  color: white;
+}
+
+#oscurecer{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.centrado-porcentual {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.rutas {
+  background: url(../images/dem2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;background-size: cover;
+}
+
+.oscureciendo {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.raspado{
+  font-family: verdana, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1.4pt;
+  word-spacing: 1.4pt;
+  line-height: 3;
+}
+
+
+.negro {
+  color: #000000;
+}
+.rosado {
+  color: #f50057;
+}
+
+.blanco {
+  color: white;
+}

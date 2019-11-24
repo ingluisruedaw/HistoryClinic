@@ -1,0 +1,44 @@
+h5 {
+	font-family: verdana, sans-serif;
+	color: #244d77;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 1.6;
+}
+
+.titban01 {
+	font-family: verdana, sans-serif;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	word-spacing: 3.6pt;
+	line-height: 2.2;
+}
+#bordersli {
+	border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-color: #1565c0;
+    background-color: #0d47a1;
+    color: white
+}
+#divborde {
+	border-bottom-style: dotted;
+	border-color: #1565c0;
+	line-height: 2.6;
+}
+
+#footops {
+	font-family: georgia, serif;
+	font-size: 16px;
+	font-weight: bold;
+	word-spacing: 4pt;
+	line-height: 2;
+}
+
+#footops a {
+	color: white;
+}
